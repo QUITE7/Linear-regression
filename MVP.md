@@ -21,7 +21,8 @@ the figure represented in heatmap plot, the above figure shows the relations bet
 ![](https://github.com/QUITE7/Linear-regression/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202021-12-05%20185848.png)
 
 the table above shows the error validation techniques and the used regression models
-the error values measured in five methods
+
+### the error values measured in five methods
 
 1-MAE
 
@@ -32,3 +33,9 @@ the error values measured in five methods
 4-R2 square
 
 5-Cross Validation
+
+### The used two regression models
+
+1- linear regression model
+
+2- ridge regression model
