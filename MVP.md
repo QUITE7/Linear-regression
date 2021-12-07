@@ -5,6 +5,12 @@
 
 The main goal of this project is to study the Estates market and to train a model to
 predict the prices of the estates,and testing it using  regression models, The dataset derived from Aqar website using web scraping libraries.
+
+Done by:
+
+###### mohammad alajmi
+
+###### mohammad almalki
 ***
 
 ![](https://github.com/QUITE7/Linear-regression/blob/main/download.png)
